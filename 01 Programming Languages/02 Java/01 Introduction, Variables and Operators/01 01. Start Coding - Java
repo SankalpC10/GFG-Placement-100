@@ -1,0 +1,8 @@
+https://practice.geeksforgeeks.org/problems/start-coding-java/1?ref=gcse
+
+class Geeks{
+    
+    // Function to print hello
+    static void printHello(){
+        System.out.print("Hello World");
+}
